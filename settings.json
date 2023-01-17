@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "NATIVE_SMP.aternos.me",
+    "port": 52859,
     "version": "1.19.3"
   },
 
